@@ -99,7 +99,7 @@ cd /opt/netbox/netbox
 
 Clone netbox-proxbox repository
 ```
-git clone https://github.com/N-Multifibra/netbox-proxbox.git
+git clone https://github.com/TekunoKage/netbox-proxbox.git
 ```
 
 Install netbox-proxbox
