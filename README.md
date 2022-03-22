@@ -230,7 +230,7 @@ python3 manage.py migrate
 
 Restart the WSGI service to load the new plugin:
 ```
-# sudo systemctl restart netbox
+sudo systemctl restart netbox
 ```
 
 ---
