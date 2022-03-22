@@ -218,10 +218,10 @@ I did it because I had to change the **base/layout.html** from Netbox, since the
 ---
 
 ### 1.4. Run Database Migrations
-
+(venv) $ 
 ```
-(venv) $ cd /opt/netbox/netbox/
-(venv) $ python3 manage.py migrate
+cd /opt/netbox/netbox/
+python3 manage.py migrate
 ```
 
 ---
